@@ -1,230 +1,150 @@
-# Leetcode-daily
 
-
-1. Beginner / Foundation (Recursion → Memoization → Tabulation)
-
-Fibonacci Number
-
-Tribonacci Number
-
-Climbing Stairs
-
-Min Cost Climbing Stairs
-
-N-th Stair Problem
-
-House Robber
-
-House Robber II
-
-Paint House
-
-Paint Fence
-
-Decode Ways
-
-🔵 2. Knapsack Variants (Subset/Partition Problems)
-
-0/1 Knapsack
-
-Subset Sum Problem
-
-Partition Equal Subset Sum
-
-Target Sum
-
-Count of Subset Sum
-
-Minimum Subset Sum Difference
-
-Last Stone Weight II
-
-Number of Subsets with Given Difference
-
-Number of Ways to Partition Array with Given Difference
- (variant)
-
-Partition to K Equal Sum Subsets
-
-🟣 3. Unbounded Knapsack (Coin Change Family)
-
-Coin Change
-
-Coin Change II
-
-Combination Sum IV
-
-Minimum Coins to Make Amount
- (variant)
-
-Rod Cutting Problem
-
-Integer Break
-
-Perfect Squares
-
-Number of Dice Rolls with Target Sum
-
-Ways to Reach Target Score
-
-Minimum Steps to One
-
-🟠 4. Longest Common Subsequence (LCS Family)
-
-Longest Common Subsequence
-
-Longest Palindromic Subsequence
-
-Shortest Common Supersequence
-
-Minimum Insertions to Make String Palindrome
-
-Delete Operation for Two Strings
-
-Distinct Subsequences
-
-Interleaving String
-
-Edit Distance
-
-Wildcard Matching
-
-Regular Expression Matching
-
-🟡 5. Longest Increasing Subsequence (LIS Family)
-
-Longest Increasing Subsequence
-
-Longest Bitonic Subsequence
-
-Russian Doll Envelopes
-
-Maximum Length of Pair Chain
-
-Largest Divisible Subset
-
-Increasing Triplet Subsequence
-
-Minimum Removals to Make Mountain Array
-
-Maximum Sum Increasing Subsequence
-
-Number of LIS
-
-Patience Sorting Variant
- (LIS advanced)
-
-🟤 6. Matrix / Grid DP
-
-Unique Paths
-
-Unique Paths II
-
-Minimum Path Sum
-
-Cherry Pickup
-
-Maximum Path Sum in Matrix
-
-Dungeon Game
-
-Minimum Falling Path Sum
-
-Paths in Matrix with Modulo M
-
-Grid Traveler Problem
-
-Collect Maximum Gold
-
-🔴 7. Partition / Palindrome Partitioning
-
-Palindrome Partitioning II
-
-Minimum Cuts to Partition Palindrome
- (variant)
-
-Word Break
-
-Word Break II
-
-Boolean Parenthesization Problem
-
-Matrix Chain Multiplication
-
-Scramble String
-
-Evaluate Expression to True
-
-Burst Balloons
-
-Minimum Cost Tree From Leaf Values
-
-🟢 8. Stock Buy & Sell (Profit Maximization)
-
-Best Time to Buy and Sell Stock
-
-Best Time to Buy and Sell Stock II
-
-Best Time to Buy and Sell Stock III
-
-Best Time to Buy and Sell Stock IV
-
-Best Time to Buy and Sell Stock with Cooldown
-
-Best Time to Buy and Sell Stock with Transaction Fee
-
-Maximum Profit in Job Scheduling
-
-Weighted Interval Scheduling
- (variant)
-
-Buy/Sell Stock with Infinite Transactions
- (variant)
-
-Buy/Sell Stock with Limited K Transactions
- (variant)
-
-🔵 9. Advanced DP / Hard Variants
-
-Traveling Salesman Problem
-
-Minimum Window Subsequence
-
-Regular Expression Advanced Variants
-
-Domino and Tromino Tiling
-
-Profitable Schemes
-
-Maximum Points You Can Obtain from Cards
-
-Minimum Difficulty of a Job Schedule
-
-Painting Fence (k Colors) Advanced
- (extended)
-
-Guess Number Higher or Lower II
-
-Optimal Game Strategy
-
-🟣 10. Game Theory / Miscellaneous DP
-
-Stone Game
-
-Stone Game II
-
-Stone Game III
-
-Nim Game
-
-Predict the Winner
-
-Divisor Game
-
-Super Egg Drop
-
-Minimum Moves to Reach Target
-
-Candy Distribution Problem
-
-Split Array Largest Sum
+# 📘 Top 100 Dynamic Programming Problems – Classified with Links
+
+## 🟢 1. Beginner / Foundation (Recursion → Memoization → Tabulation)
+
+1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+2. [Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+4. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+5. [N-th Stair Problem](https://www.geeksforgeeks.org/count-ways-to-reach-the-nth-stair/)
+6. [House Robber](https://leetcode.com/problems/house-robber/)
+7. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+8. [Paint House](https://leetcode.com/problems/paint-house/)
+9. [Paint Fence](https://leetcode.com/problems/paint-fence/)
+10. [Decode Ways](https://leetcode.com/problems/decode-ways/)
+
+---
+
+## 🔵 2. Knapsack Variants (Subset/Partition Problems)
+
+11. [0/1 Knapsack](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
+12. [Subset Sum Problem](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
+13. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+14. [Target Sum](https://leetcode.com/problems/target-sum/)
+15. [Count of Subset Sum](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/)
+16. [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
+17. [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+18. [Number of Subsets with Given Difference](https://www.geeksforgeeks.org/number-of-subsets-with-given-difference/)
+19. [Number of Ways to Partition Array with Given Difference](https://leetcode.com/problems/target-sum/) (variant)
+20. [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+
+---
+
+## 🟣 3. Unbounded Knapsack (Coin Change Family)
+
+21. [Coin Change](https://leetcode.com/problems/coin-change/)
+22. [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+23. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+24. [Minimum Coins to Make Amount](https://leetcode.com/problems/coin-change/) (variant)
+25. [Rod Cutting Problem](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)
+26. [Integer Break](https://leetcode.com/problems/integer-break/)
+27. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+28. [Number of Dice Rolls with Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
+29. [Ways to Reach Target Score](https://www.geeksforgeeks.org/number-of-ways-to-score-runs-in-a-cricket-match/)
+30. [Minimum Steps to One](https://www.geeksforgeeks.org/minimum-number-of-steps-to-reach-a-given-number-n-from-1/)
+
+---
+
+## 🟠 4. Longest Common Subsequence (LCS Family)
+
+31. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+32. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+33. [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
+34. [Minimum Insertions to Make String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
+35. [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+36. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+37. [Interleaving String](https://leetcode.com/problems/interleaving-string/)
+38. [Edit Distance](https://leetcode.com/problems/edit-distance/)
+39. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+40. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+
+---
+
+## 🟡 5. Longest Increasing Subsequence (LIS Family)
+
+41. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+42. [Longest Bitonic Subsequence](https://www.geeksforgeeks.org/longest-bitonic-subsequence-dp-15/)
+43. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+44. [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+45. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
+46. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+47. [Minimum Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)
+48. [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)
+49. [Number of LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+50. [Patience Sorting Variant](https://leetcode.com/problems/longest-increasing-subsequence/) (LIS advanced)
+
+---
+
+## 🟤 6. Matrix / Grid DP
+
+51. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+52. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+53. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+54. [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)
+55. [Maximum Path Sum in Matrix](https://www.geeksforgeeks.org/maximum-path-sum-matrix/)
+56. [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+57. [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+58. [Paths in Matrix with Modulo M](https://www.geeksforgeeks.org/count-ways-to-reach-the-nth-stair-using-1-or-2-steps-with-modulo-m/)
+59. [Grid Traveler Problem](https://www.geeksforgeeks.org/unique-paths-in-a-grid-with-obstacles-dp-7/)
+60. [Collect Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)
+
+---
+
+## 🔴 7. Partition / Palindrome Partitioning
+
+61. [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+62. [Minimum Cuts to Partition Palindrome](https://leetcode.com/problems/palindrome-partitioning-ii/) (variant)
+63. [Word Break](https://leetcode.com/problems/word-break/)
+64. [Word Break II](https://leetcode.com/problems/word-break-ii/)
+65. [Boolean Parenthesization Problem](https://www.geeksforgeeks.org/boolean-parenthesization-problem-dp-37/)
+66. [Matrix Chain Multiplication](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/)
+67. [Scramble String](https://leetcode.com/problems/scramble-string/)
+68. [Evaluate Expression to True](https://www.geeksforgeeks.org/boolean-parenthesization-problem-dp-37/)
+69. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+70. [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
+
+---
+
+## 🟢 8. Stock Buy & Sell (Profit Maximization)
+
+71. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+72. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+73. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+74. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+75. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+76. [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+77. [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+78. [Weighted Interval Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) (variant)
+79. [Buy/Sell Stock with Infinite Transactions](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (variant)
+80. [Buy/Sell Stock with Limited K Transactions](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) (variant)
+
+---
+
+## 🔵 9. Advanced DP / Hard Variants
+
+81. [Traveling Salesman Problem](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)
+82. [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
+83. [Regular Expression Advanced Variants](https://leetcode.com/problems/regular-expression-matching/)
+84. [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
+85. [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
+86. [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+87. [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
+88. [Painting Fence (k Colors) Advanced](https://leetcode.com/problems/paint-fence/) (extended)
+89. [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
+90. [Optimal Game Strategy](https://leetcode.com/problems/predict-the-winner/)
+
+---
+
+## 🟣 10. Game Theory / Miscellaneous DP
+
+91. [Stone Game](https://leetcode.com/problems/stone-game/)
+92. [Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+93. [Stone Game III](https://leetcode.com/problems/stone-game-iii/)
+94. [Nim Game](https://leetcode.com/problems/nim-game/)
+95. [Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
+96. [Divisor Game](https://leetcode.com/problems/divisor-game/)
+97. [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)
+98. [Minimum Moves to Reach Target](https://leetcode.com/problems/reach-a-number/)
+99. [Candy Distribution Problem](https://leetcode.com/problems/candy/)
+100. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
