@@ -170,13 +170,16 @@
 
 
 
- **10 well-classified LeetCode graph problems per pattern**, now correctly aligned with your specifications and linked for easy access:
 
 ---
 
-## Pattern 1 – **DFS / BFS Traversal**
+# 📚 Graph Problems – Pattern-Based Taxonomy (with Links)
 
-Ideal for problems focused on reachability, connectedness, graph coloring, and exploring nodes.
+---
+
+## **Pattern 1 – DFS / BFS Traversal**
+
+For reachability, connectedness, and graph exploration.
 
 1. [133. Clone Graph](https://leetcode.com/problems/clone-graph)
 2. [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
@@ -186,14 +189,14 @@ Ideal for problems focused on reachability, connectedness, graph coloring, and e
 6. [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)
 7. [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)
 8. [2368. Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions)
-9. [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread) – union & component-based
-10. [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) – actually a max-Dijkstra case now moved here
+9. [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread)
+10. [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability)
 
 ---
 
-## Pattern 2 – **Shortest Path Algorithms (BFS, Dijkstra, Bellman-Ford)**
+## **Pattern 2 – Shortest Path (BFS / Dijkstra / Bellman-Ford)**
 
-For discovering shortest/optimal paths in weighted or layered graphs.
+For finding minimum/optimal routes.
 
 1. [743. Network Delay Time](https://leetcode.com/problems/network-delay-time)
 2. [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
@@ -203,14 +206,14 @@ For discovering shortest/optimal paths in weighted or layered graphs.
 6. [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner)
 7. [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination)
 8. [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination)
-9. [2307. Check for Contradictions in Equations](https://leetcode.com/problems/check-for-contradictions-in-equations) – weighted union-find
-10. [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) – already placed also here for shortest-path relevance
+9. [2307. Check for Contradictions in Equations](https://leetcode.com/problems/check-for-contradictions-in-equations)
+10. [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability)
 
 ---
 
-## Pattern 3 – **Topological Sort / DAG DP**
+## **Pattern 3 – Topological Sort / DAG DP**
 
-Focuses on ordering constraints and DP across DAGs.
+For ordering, dependencies, and DAG-based DP.
 
 1. [207. Course Schedule](https://leetcode.com/problems/course-schedule)
 2. [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
@@ -225,9 +228,9 @@ Focuses on ordering constraints and DP across DAGs.
 
 ---
 
-## Pattern 4 – **Cycle Detection**
+## **Pattern 4 – Cycle Detection**
 
-Identifying cycles in directed/undirected graphs using DFS or coloring.
+Detecting cycles in directed/undirected graphs.
 
 1. [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)
 2. [684. Redundant Connection](https://leetcode.com/problems/redundant-connection)
@@ -235,16 +238,16 @@ Identifying cycles in directed/undirected graphs using DFS or coloring.
 4. [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv)
 5. [1361. Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes)
 6. [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)
-7. [2204. Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph)
+7. [2204. Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-an-undirected-graph)
 8. [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph)
 9. [207. Course Schedule](https://leetcode.com/problems/course-schedule)
-10. [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) – (cross-listed due to cycle-based logic)
+10. [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)
 
 ---
 
-## Pattern 5 – **Connected Components / Union-Find**
+## **Pattern 5 – Connected Components / Union-Find**
 
-Union-Find or BFS/DFS to group nodes via connectivity.
+Grouping via connectivity.
 
 1. [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
 2. [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces)
@@ -259,9 +262,9 @@ Union-Find or BFS/DFS to group nodes via connectivity.
 
 ---
 
-## Pattern 6 – **Minimum Spanning Tree (MST)**
+## **Pattern 6 – Minimum Spanning Tree (MST)**
 
-Prim’s/Kruskal’s algorithms for cost minimization across spanning trees.
+Prim’s & Kruskal’s for min-cost spanning trees.
 
 1. [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost)
 2. [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points)
@@ -269,21 +272,21 @@ Prim’s/Kruskal’s algorithms for cost minimization across spanning trees.
 4. [1489. Find Critical and Pseudo-Critical Edges in MST](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
 5. [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)
 6. [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities)
-7. [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) – alternative MST
-8. [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) — bridge detection related
-9. \[1203. Sort Items by Groups] — (not MST, but removed earlier)
-10. \[685. Redundant Connection II] — (if using MST logic)
+7. [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
+8. [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network)
+9. [684. Redundant Connection](https://leetcode.com/problems/redundant-connection)
+10. [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)
 
 ---
 
-## Pattern 7 – **Graph Coloring / Bipartite**
+## **Pattern 7 – Graph Coloring / Bipartite**
 
-Problems requiring 2-color or general coloring logic.
+2-color and graph coloring logic.
 
 1. [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
 2. [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition)
 3. [1042. Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)
-4. [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank) *(structural but often solved greedily)*
+4. [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank)
 5. [2497. Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph)
 6. [2242. Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence)
 7. [2467. Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree)
@@ -293,26 +296,26 @@ Problems requiring 2-color or general coloring logic.
 
 ---
 
-## Pattern 8 – **Flow & Matching**
+## **Pattern 8 – Flow & Matching**
 
-True flow or matching contexts in graphs.
+Flow, matching, and resource allocation problems.
 
 1. [1820. Maximum Number of Accepted Invitations](https://leetcode.com/problems/maximum-number-of-accepted-invitations)
 2. [1349. Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam)
 3. [2077. Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room)
 4. [2065. Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph)
-5. [913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse) — game theory
+5. [913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse)
 6. [1728. Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii)
-7. \[329. Longest Increasing Path in a Matrix] — (removed duplicates)
-8. \[1129. Shortest Path with Alternating Colors] — (duplicated)
-
-*(Note: Only Items 1–2 are truly matching/flow; others moved or clarified.)*
+7. [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
+8. [743. Network Delay Time](https://leetcode.com/problems/network-delay-time)
+9. [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination)
+10. [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node)
 
 ---
 
-## Pattern 9 – **Graph Structural Properties**
+## **Pattern 9 – Graph Structural Properties**
 
-Analyses of degree, adjacency, rank, centrality.
+Degree, adjacency, rank, centrality.
 
 1. [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank)
 2. [2497. Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph)
@@ -323,24 +326,26 @@ Analyses of degree, adjacency, rank, centrality.
 7. [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)
 8. [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
 9. [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)
-10. \[2192. All Ancestors of a Node in a DAG] – also structural via dependency analysis
+10. [2192. All Ancestors of a Node in a DAG](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph)
 
 ---
 
-## Pattern 10 – **Game Theory / Graph DP**
+## **Pattern 10 – Game Theory / Graph DP**
 
-Graph problems solved via DP or game-theoretic logic.
+DP or adversarial strategies on graphs.
 
 1. [913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse)
 2. [1728. Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii)
-3. \[329. Longest Increasing Path in a Matrix] – moved to DAG DP (Pattern 3)
-4. \[2473. Minimum Cost to Buy Apples]
-5. \[2050. Parallel Courses III] – via DP scheduling
-6. \[2092. Find All People With Secret]
-7. \[2101. Detonate the Maximum Bombs]
-8. \[2077. Paths in Maze That Lead to Same Room]
-9. \[2065. Maximum Path Quality of a Graph]
-10. \[2485. Find the Pivot Integer] *(just example; adjust if not graph)*
+3. [2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii)
+4. [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret)
+5. [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs)
+6. [2077. Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room)
+7. [2065. Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph)
+8. [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph)
+9. [1377. Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds)
+10. [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital)
 
+---
 
-
+✨ This gives you a **study-ready, hyperlink-rich reference**.
+Would you like me to also create a **tabular cheat sheet (Pattern | Problem | Link)** so you can print it as a one-page PDF?
