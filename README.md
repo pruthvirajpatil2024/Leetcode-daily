@@ -7,26 +7,24 @@
 2. [Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 4. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-5. [N-th Stair Problem](https://www.geeksforgeeks.org/count-ways-to-reach-the-nth-stair/)
 6. [House Robber](https://leetcode.com/problems/house-robber/)
 7. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-8. [Paint House](https://leetcode.com/problems/paint-house/)
-9. [Paint Fence](https://leetcode.com/problems/paint-fence/)
+8. [Paint House](https://www.geeksforgeeks.org/problems/distinct-coloring--170645/1)
+9. [Paint Fence](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)
 10. [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
 ---
 
 ## 🔵 2. Knapsack Variants (Subset/Partition Problems)
 
-11. [0/1 Knapsack](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
-12. [Subset Sum Problem](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
+11. [0/1 Knapsack](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+12. [Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)
 13. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 14. [Target Sum](https://leetcode.com/problems/target-sum/)
-15. [Count of Subset Sum](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/)
-16. [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
+15. [Count of Subset Sum](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1)
+16. [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1)
 17. [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
-18. [Number of Subsets with Given Difference](https://www.geeksforgeeks.org/number-of-subsets-with-given-difference/)
-19. [Number of Ways to Partition Array with Given Difference](https://leetcode.com/problems/target-sum/) (variant)
+18. [Number of Subsets with Given Difference](https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1)
 20. [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
 
 ---
@@ -36,12 +34,12 @@
 21. [Coin Change](https://leetcode.com/problems/coin-change/)
 22. [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
 23. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
-24. [Minimum Coins to Make Amount](https://leetcode.com/problems/coin-change/) (variant)
-25. [Rod Cutting Problem](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)
+24. [Minimum Coins to Make Amount]() (variant)
+25. [Rod Cutting Problem](https://www.geeksforgeeks.org/problems/rod-cutting0840/1)
 26. [Integer Break](https://leetcode.com/problems/integer-break/)
 27. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 28. [Number of Dice Rolls with Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
-29. [Ways to Reach Target Score](https://www.geeksforgeeks.org/number-of-ways-to-score-runs-in-a-cricket-match/)
+29. [Ways to Reach Target Score](https://www.geeksforgeeks.org/dsa/count-number-ways-reach-given-score-game/)
 30. [Minimum Steps to One](https://www.geeksforgeeks.org/minimum-number-of-steps-to-reach-a-given-number-n-from-1/)
 
 ---
