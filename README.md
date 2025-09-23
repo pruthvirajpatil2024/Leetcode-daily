@@ -230,16 +230,16 @@ For ordering, dependencies, and DAG-based DP.
 
 Detecting cycles in directed/undirected graphs.
 
-1. [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)
-2. [684. Redundant Connection](https://leetcode.com/problems/redundant-connection)
-3. [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii)
-4. [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv)
-5. [1361. Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes)
-6. [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)
-7. [2204. Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-an-undirected-graph)
-8. [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph)
-9. [207. Course Schedule](https://leetcode.com/problems/course-schedule)
-10. [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)
+1. [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)  
+2. [684. Redundant Connection](https://leetcode.com/problems/redundant-connection)  
+3. [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii)  
+4. [1361. Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes)  
+5. [2204. Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-an-undirected-graph)  
+6. [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph)  
+7. [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps)  
+8. [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)  
+9. [399. Evaluate Division](https://leetcode.com/problems/evaluate-division)  
+10. [1245. Tree Diameter](https://leetcode.com/problems/tree-diameter)  
 
 ---
 
