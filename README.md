@@ -13,6 +13,10 @@
 9. [Paint Fence](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)
 10. [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
+### Breakthrough
+1. [Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
+2. [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
+3. [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)
 ---
 
 ## 🔵 2. Knapsack Variants (Subset/Partition Problems)
