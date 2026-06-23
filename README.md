@@ -38,7 +38,7 @@
 21. [Coin Change](https://leetcode.com/problems/coin-change/)
 22. [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
 23. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
-24. [Minimum Coins to Make Amount]() (variant)
+24. 
 25. [Rod Cutting Problem](https://www.geeksforgeeks.org/problems/rod-cutting0840/1)
 26. [Integer Break](https://leetcode.com/problems/integer-break/)
 27. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
