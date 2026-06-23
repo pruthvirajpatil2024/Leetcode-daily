@@ -43,7 +43,7 @@
 26. [Integer Break](https://leetcode.com/problems/integer-break/)
 27. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 28. [Number of Dice Rolls with Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
-29. [Ways to Reach Target Score](https://www.geeksforgeeks.org/dsa/count-number-ways-reach-given-score-game/)
+29. [Ways to Reach Target Score](https://www.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1)
 30. [Minimum Steps to One](https://www.geeksforgeeks.org/minimum-number-of-steps-to-reach-a-given-number-n-from-1/)
 
 ---
