@@ -44,7 +44,7 @@
 27. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 28. [Number of Dice Rolls with Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
 29. [Ways to Reach Target Score](https://www.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1)
-30. [Minimum Steps to One](https://www.geeksforgeeks.org/minimum-number-of-steps-to-reach-a-given-number-n-from-1/)
+30. [Minimum Steps to One](https://www.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition0618/1)
 
 ---
 
