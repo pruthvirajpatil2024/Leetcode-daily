@@ -72,7 +72,7 @@
 45. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
 46. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 47. [Minimum Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)
-48. [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)
+48. [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)
 49. [Number of LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 50. [Patience Sorting Variant](https://leetcode.com/problems/longest-increasing-subsequence/) (LIS advanced)
 
