@@ -66,7 +66,7 @@
 ## 🟡 5. Longest Increasing Subsequence (LIS Family)
 
 41. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-42. [Longest Bitonic Subsequence](https://www.geeksforgeeks.org/longest-bitonic-subsequence-dp-15/)
+42. [Longest Bitonic Subsequence](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)
 43. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 44. [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
 45. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
