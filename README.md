@@ -87,9 +87,9 @@
 55. [Maximum Path Sum in Matrix](https://www.geeksforgeeks.org/maximum-path-sum-matrix/)
 56. [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
 57. [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
-58. [Paths in Matrix with Modulo M](https://www.geeksforgeeks.org/count-ways-to-reach-the-nth-stair-using-1-or-2-steps-with-modulo-m/)
-59. [Grid Traveler Problem](https://www.geeksforgeeks.org/unique-paths-in-a-grid-with-obstacles-dp-7/)
-60. [Collect Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)
+58. [Paths in Matrix with Modulo M](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/)
+59. [Grid Traveler Problem]
+60. [Collect Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/)
 
 ---
 
