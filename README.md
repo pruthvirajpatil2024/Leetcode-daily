@@ -126,7 +126,7 @@
 ## 🔵 9. Advanced DP / Hard Variants
 
 81. [Traveling Salesman Problem](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)
-82. [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
+82. [Minimum Window Subsequence](https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1)
 83. [Regular Expression Advanced Variants](https://leetcode.com/problems/regular-expression-matching/)
 84. [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
 85. [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
